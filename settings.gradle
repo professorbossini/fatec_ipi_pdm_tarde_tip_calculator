@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='fatec_ipi_pdm_tarde_tip_calculator'
